@@ -1,1 +1,1 @@
-Get-ChildItem C:\
+Get-ChildItem C:\temp
